@@ -1,19 +1,24 @@
 source_file = "demo.txt"
 final_file = "result.txt"
 favorite_list = [
-    "广东珠江",
-    "开平综合",
-    "开平生活",
-    "CCTV-1",
-    "CCTV-5",
+    "CCTV1",
+    "CCTV2",
+    "CCTV3",
+    "CCTV4",
+    "CCTV5",
     "CCTV-5+",
-    "CCTV-13",
-    "广东体育",
-    "广东卫视",
-    "大湾区卫视",
-    "浙江卫视",
-    "湖南卫视",
-    "翡翠台",
+    "CCTV6",
+    "CCTV7",
+    "CCTV8",
+    "CCTV9",
+    "CCTV10",
+    "CCTV11",
+    "CCTV12",
+    "CCTV13",
+    "CCTV14",
+    "CCTV15",
+    "CCTV16",
+    "CCTV17",
 ]
 favorite_page_num = 6
 default_page_num = 4
